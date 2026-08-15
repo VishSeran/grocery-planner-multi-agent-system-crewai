@@ -135,4 +135,6 @@ CrewAI supports defining agents and tasks declaratively in YAML instead of hardc
 
 ## License
 
-Add your preferred license here.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the [MIT License](LICENSE) — see the `LICENSE` file for details.
