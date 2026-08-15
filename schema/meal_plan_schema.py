@@ -1,6 +1,5 @@
 from pydantic import BaseModel, Field
 
-
 class MealPlanner(BaseModel):
 
     name: str = Field(description="name of the meal")

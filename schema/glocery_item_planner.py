@@ -1,6 +1,5 @@
 from pydantic import BaseModel, Field
 
-
 class GloceryItem(BaseModel):
     
     name:str = Field(description="Name of the glocery item")
